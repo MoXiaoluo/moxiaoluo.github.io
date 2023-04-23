@@ -13,6 +13,7 @@ export default function Home(): JSX.Element {
           <img
             src="img/macbook-g664ee8da5_1280.jpg"
             alt="take easy for life"
+            title="the all things we could found from Internet"
           ></img>
         </div>
       </div>
